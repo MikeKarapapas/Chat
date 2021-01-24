@@ -8,3 +8,6 @@ After you get no errors you can start chatting(There is no "Type here a message"
 ------ HOW TO USE SERVER ------
 Just open the Server folder and then open the Server.exe file
 Enter your ip to start a new server
+
+
+PS:YOU NEED TO DOWNLOAD BOTH CLIENT AND SERVER FOLDERS
